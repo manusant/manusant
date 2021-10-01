@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on ... blockchain and cloud projects
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manusant&show_icons=true&theme=vue)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manusant&theme=vue)
