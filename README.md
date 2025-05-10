@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Learning (working with) AI and IoT.
+Learning (experimenting) AI and IoT.
 
 Working with Backstage, Kubernetes, Node-Boot, ...
